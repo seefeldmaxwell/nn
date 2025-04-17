@@ -1,5 +1,5 @@
 name = "erp-partitioner"
-main = "index.js"  # ✅ THIS LINE IS MISSING
+main = "index.js"  
 compatibility_date = "2025-04-16"
 
 [[d1_databases]]
