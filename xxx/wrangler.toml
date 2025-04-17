@@ -1,0 +1,7 @@
+name = "erp-partitioner"
+compatibility_date = "2025-04-16"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "erp"
+database_id = "ff34c73d-f85c-4004-a145-3fa493135ebd"
